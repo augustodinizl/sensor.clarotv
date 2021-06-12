@@ -64,7 +64,9 @@ instale via hacs e adicione a configuração abaixo (Lembre-se de substituir sen
 ```yaml
 type: custom:upcoming-media-card
 entity: sensor.off
-title: Canal Off
+title: Canal OFF
+max: 10
+image_style: fanart
 ```
 
 # Debugando
