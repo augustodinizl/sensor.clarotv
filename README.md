@@ -51,7 +51,7 @@ Example:
 ```yaml
 - platform: clarotv
   channel_id: 1056
-  channel_name: Off
+  channel_name: Canal OFF
   channel_logo: https://www.claro.com.br/imagem/canal-off-1509144657569.jpg
 ```
 
